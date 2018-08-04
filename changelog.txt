@@ -1,0 +1,61 @@
+==12/27/2014 Update: 1.2.18==
+
+[-] Christmas Features have been removed.
+[-] Enhanced some commands.
+[-] Added more "cheat" detections for our automated "Anti-Cheat".
+
+[-] Reduced the log sizes even more.
+
+==12/11/2014 Update: 1.2.17 (Christmas)==
+
+[-] Money Bag system has been replaced with a "Christmas Present" system.
+[-] Christmas textdraws have been added.
+[-] A Christmas Tree has been added into "City Hall" in the center.
+[-] Fixed the sweeper bug, it's now working properely.
+[-] Added /mapcredits, only for Christmas (you can check who the creator of the christmas tree is)
+[-] SnowFall has been added, and can be disabled & enabled by Administrators.
+[-] Extra Vehicles have been added all over San Fierro.
+[-] The /rules bug has been fixed, there was only 128chars.
+[-] Reduced the log usage(s) [128mb] worth of logs LOL.
+[-] Added functions for the "Leave" button when the login/register dialog comes up.
+[-] Fixed Hospital CP & Airport CP.
+[-] A system has been added that checks the amount of times logged in to a certain IP, (avoids bots, and server crashers).
+
+==11/26/2014 Update: 1.2.15==
+
+[-] Made an entire new GPS system, that uses different functions. As well as Locations. (/gps)
+[-] Added VIP expiration Enums that are more effcient, they will display the actual (year, month, minute, second, etc)
+[-] Added VIP Level to /data for Admins Level 5 and up.
+[-] Updated the rules, make sure you check them out.
+[-] Fixed the vehicle system bug, /vcreate for admins. Was conflicting with the actual vehicle system.
+
+[-] Updated the VIP system with new; messages, dialogs, and such.
+[-] Updated the ADMIN system added a few new commands, such as /hide for RCON administrators only.
+[-] Fixed/Updated the RADIO system, all of the streams were down, and also were old.
+[-] Fixed /housesforsale, it was conflicting with one of the admin houses set.
+[-] All string sizes have been decreased, for the best performance.
+[-] The risk of Lag Spikes have been decreased (logout(s), and connection(s))
+[-] Updated a few textdraws that display (time, day).
+[-] Added a few extra trucking missions (location) wise.
+
+[-] New Messages have been added for the VIP redemption service, as well as the "Easy Stretch" validation.
+[-] MySQL is has been updated to BlueG instead of the Old MySQL it used to use.
+[-] Updated the Random Messages.
+[-] Fixed the Bank CP, it was spawning you inside the floor whilst objects loading.
+[-] Robberies have been improved for optimal experience.
+[-] Removed the DM Event System, as it had a lot of flaws.
+[-] We now use MySQL scheduling, instead of doing things manually.
+[-] Account(s) will now be removed if they're inactive over (30 Day(s), exeptions can be made.)
+[-] The STATS textdraw was buggy "LMB" wise, that has been successfully debugged.
+[-] Mini-Games have been removed, but don't worry! When we get to it, we will add better mini-games such as; (paintball, airsoft, capture the flag, minigun dm, and so much more!)
+
+
+==09/02/2013 Update: 1.2.14==
+
+[-] Small Bug Fixes
+[-] Robbery System Added
+[-] Administration Commands fixed/updated
+[-] VIP now has expiration
+[-] There's now 3 vip ranks, instead of 1
+[-] Personal owned vehicle system has been fixed, and added back!
+[-] BANK robberies have been implemented
